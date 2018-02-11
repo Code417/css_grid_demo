@@ -1,0 +1,61 @@
+audio{	display:block;width: 100%;}
+a, a:hover, a:visited{color:black;text-decoration: black;}
+html, body{
+	border: 0px solid black;
+	border: 1px solid black;
+}
+html{
+	height:95%;
+	width: 98%;
+	margin: auto;
+	padding:0px;
+	position: absolute;
+	top:1%;
+	left:1%;
+}
+.reset-sizeing, body {
+	display: contents;
+
+	height:100%;	
+	max-height:100%;	
+	min-height:100%;	
+
+	width: 100%;
+	max-width: 100%;
+	max-width: 100%;
+
+	margin: 0px;
+	padding:0px;
+
+}
+
+.center-text{
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

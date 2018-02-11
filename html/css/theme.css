@@ -1,0 +1,13 @@
+#layout-container > div{background: #aaa;}
+#layout-container > div:nth-child(odd){background: #ddd;}
+canvas{background: #000;}
+html {
+background-color: aliceblue;
+background-color: azure;
+background-color: beige;
+background-color: violet;
+background-color: dimgray;
+background-color: black;
+
+background-color: aliceblue;
+}
